@@ -7,7 +7,7 @@ import select
 import urllib.parse
 
 API_KEY = "vach_1ytE2CY5X2ERzLhX7GxdbYguiz0pleADjqBKFBrXyOOrCOJiJTFSKTtaugKRj0LM7xkPORwEt11y2hVXKHC7feBg1BIfpNai_196bbc3f513763933dd8c60fbb46e2a9"
-EMERGENCY_CONTACT = "6289932802"
+EMERGENCY_CONTACT = "91*********"
 DEFAULT_EXACT_COORDS = "22.5015,88.3610"
 
 def speak(text_to_speak, lang_code="en-IN"):
